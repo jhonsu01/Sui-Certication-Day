@@ -1,5 +1,5 @@
 ![banner](./imagenes/banner.jpg)
-# Sui Certificate Day Code
+# Sui Certification Day Code
 
 Sui es una plataforma de blockchain y contratos inteligentes de capa 1 diseñada para que la propiedad de activos digitales sea rápida, privada, segura y accesible.
 
