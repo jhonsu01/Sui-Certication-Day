@@ -201,6 +201,11 @@ En este paso es necesario exportar la llave privada del address utilizado para e
 ```
 sui keytool export --key-identity <Inserta tu address aqui>
 ```
+Recuerda que puedes consultar tu address con:
+```
+sui client active-address
+```
+
 Por ejemplo:
 
 ```
